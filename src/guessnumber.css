@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(100, 99, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+}
+
+.container{
+    padding: 10px;
+    border: 2px solid whitesmoke;
+    width: 500px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+}
+.head{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
